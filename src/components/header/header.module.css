@@ -1,0 +1,63 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    background-color: #A600AC;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.priceContainer {
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.price {
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.normalCart {
+    color: white;
+    background-color: #A600AC;
+    
+}
+
+.cartClicked {
+    color: #A600AC;
+    background-color: #FBE5FD;
+    cursor: auto;
+}
+  
+.value {
+    margin: 0 10px;
+}
+  
+.close {
+    display: flex;
+    padding: 10px;
+    background-color: #A600AC;
+    cursor: pointer;
+}
+    
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .priceContainer {
+        display: flex;
+        margin-top: 20px;
+    }
+}
+  

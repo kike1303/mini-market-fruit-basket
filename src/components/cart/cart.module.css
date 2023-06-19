@@ -1,0 +1,11 @@
+
+.total {
+  text-align: right;
+  margin: 16px 0;
+  font-weight: bold;
+  color: #B9B9B9;
+}
+
+.price {
+  color: #A600AC;
+}

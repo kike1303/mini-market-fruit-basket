@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Papas",
+      "description": "Canasta de 32 papas muy nutritivas, pa-pa-sar un buen rato.",
+      "image": "/images/fruits/papas.png",
+      "price": 3.5
+    },
+    {
+        "id": 2,
+        "name": "Berenjenas",
+        "description": "Canasta de berenjenas rojas (y muy picantes) porque fueron fueron sembradas en antiguos cultivos de ají.",
+        "image": "/images/fruits/berenjenas.png",
+        "price": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Calabaza",
+        "description": "Calabaza calabaza y cada quien para su casa, cómpramelas que se me están dañanado.",
+        "image": "/images/fruits/calabazas.png",
+        "price": 7.0
+      },
+      {
+        "id": 4,
+        "name": "Tomates",
+        "description": "Tómate 5 o 6 tomates, tómate los tomates que quieras tomar, pero tómate los buenos para que no se te vayan a dañar.",
+        "image": "/images/fruits/tomates.png",
+        "price": 2.3
+      },
+      {
+        "id": 5,
+        "name": "Frutas variadas",
+        "description": "Una jugosa canasta de frutas dañadas... perdón, variadas. Para que disfrutes el sabor a todo color.",
+        "image": "/images/fruits/frutas-variadas.png",
+        "price": 9.9
+      }
+  ]
+  

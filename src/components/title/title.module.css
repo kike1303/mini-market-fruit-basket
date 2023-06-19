@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    width: 100%;
+}
+  
+.title {
+    color: #A600AC;
+    margin-bottom: 5px;
+    font-size: 20px;
+    min-height: 30px;
+}
+
+.line {
+    border-bottom: 2px solid #FBE5FD;
+    width: 100%;
+}
+  
