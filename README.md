@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 Mini Market Fruit Basket is a React.js development make with Next.js framework
+
+Check the project here: [mini-market-fruit-basket.vercel.app/](https://mini-market-fruit-basket.vercel.app/)
 
 ## Getting Started
 

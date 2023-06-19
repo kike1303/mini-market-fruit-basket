@@ -33,6 +33,27 @@
         "description": "Una jugosa canasta de frutas dañadas... perdón, variadas. Para que disfrutes el sabor a todo color.",
         "image": "/images/fruits/frutas-variadas.png",
         "price": 9.9
+      },
+      {
+        "id": 6,
+        "name": "Bananos",
+        "description": "Bananos sin canasca para ahorrar en costos.",
+        "image": "/images/fruits/bananos.png",
+        "price": 2.0
+      },
+      {
+        "id": 7,
+        "name": "Calabazas verdes",
+        "description": "Calabazas... como las amarillas, pero estas están verdes.",
+        "image": "/images/fruits/calabazas-verdes.png",
+        "price": 8.2
+      },
+      {
+        "id": 8,
+        "name": "Pepinos",
+        "description": "Una bolsa de pepinos con forma de espárragos.",
+        "image": "/images/fruits/pepinos.png",
+        "price": 4.0
       }
   ]
   
